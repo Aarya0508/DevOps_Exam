@@ -1,4 +1,4 @@
-import java.io.*
+import java.io.,
 class Program {
 static double sum(int x, int n) {
 double i, total = 1.0;
